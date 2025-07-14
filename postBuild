@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/a3yd4_src/empirical-analysis-IRT")' >> /home/jovyan/.Rprofile
